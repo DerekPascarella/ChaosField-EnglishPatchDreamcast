@@ -50,10 +50,10 @@ Find me on...
 |
 | I originally planned to borrow the English assets from the GameCube version,
 | just like wiredcrackpot used the Wii version for "Radirgy".  However, my job
-| was even simpler than that.  The standard retail release of "Chaos Field"
-| actually shipped with about 80% of the English text and images already baked
-| into the disc.  All I had to do was flip a proverbial switch and then
-| translate that remaining 20%!
+| was even simpler than that.  The standard retail release of "Chaos Field" on
+| Dreamcast actually shipped with about 80% of the English text and images
+| already baked into the disc.  All I had to do was flip a proverbial switch and
+| then translate that remaining 20%!
 |
 | There isn't much else to say, other than to comment on the fact that this
 | game was already pretty English-friendly.  However, with this patch you will
