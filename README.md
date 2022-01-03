@@ -1,5 +1,5 @@
 #### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
-  * <a href="xxxx">Chaos Field (English - v1.0).dcp</a>
+  * <a href="https://github.com/DerekPascarella/ChaosField-EnglishPatchDreamcast/releases/download/1.0/Chaos.Field.English.-.v1.0.dcp">Chaos Field (English - v1.0).dcp</a>
 <br>
 <pre>
 Chaos Field
